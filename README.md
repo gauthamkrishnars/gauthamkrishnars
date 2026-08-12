@@ -6,7 +6,6 @@ I am a Computer Science Engineering student at MBCET building a foundation in so
 * Pursuing a B.Tech in Computer Science at MBCET (Class of 2030)
 * Practicing Data Structures and Algorithms
 * Learning Python and preparing for Data Science coursework
-* Certified in Data Science and Artificial Intelligence (IIT Madras School Connect)
 
 ### Core Interests & Skills
 * Artificial Intelligence and Machine Learning
