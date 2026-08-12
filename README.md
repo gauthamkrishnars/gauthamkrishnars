@@ -1,16 +1,20 @@
-## Hi there 👋
+## Gautham Krishna R S
 
-<!--
-**gauthamkrishnars/gauthamkrishnars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science Engineering student at MBCET building a foundation in software engineering and artificial intelligence. Alongside my academic coursework, I run DevCore Studio, where I manage B2B client acquisition and deploy web solutions for local businesses.
 
-Here are some ideas to get you started:
+### Current Focus
+* Pursuing a B.Tech in Computer Science at MBCET (Class of 2030)
+* Practicing Data Structures and Algorithms
+* Learning Python and preparing for Data Science coursework
+* Certified in Data Science and Artificial Intelligence (IIT Madras School Connect)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Interests & Skills
+* Artificial Intelligence and Machine Learning
+* Algorithmic Problem Solving
+* Python Programming
+* B2B Sales and Project Management
+
+### Contact Information
+* Portfolio: [gautham.store](https://gautham.store)
+* LinkedIn: [gauthamkrishnars](https://www.linkedin.com/in/gauthamkrishnars)
+* Email: [gauthamkrishnars91@gmail.com](mailto:gauthamkrishnars91@gmail.com)
